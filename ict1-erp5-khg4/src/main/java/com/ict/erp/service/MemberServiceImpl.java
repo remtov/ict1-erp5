@@ -7,7 +7,7 @@ import javax.inject.Inject;
 import org.springframework.stereotype.Service;
 
 import com.ict.erp.dao.MemberDAO;
-import com.ict.erp.dto.MemberVO;
+import com.ict.erp.vo.MemberVO;
 
 @Service
 public class MemberServiceImpl implements MemberService {

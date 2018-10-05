@@ -2,7 +2,7 @@ package com.ict.erp.service;
 
 import java.util.List;
 
-import com.ict.erp.dto.MemberVO;
+import com.ict.erp.vo.MemberVO;
 
 public interface MemberService {
 	

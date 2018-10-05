@@ -5,7 +5,7 @@
 	<configuration>
 	
 		<typeAliases>
-			<typeAlias type="com.ict.erp.dto.MemberVO" alias="memberVO"/>
+			<typeAlias type="com.ict.erp.vo.MemberVO" alias="memberVO"/>
 		</typeAliases>
 		
 	</configuration>

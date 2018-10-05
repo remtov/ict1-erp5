@@ -1,4 +1,4 @@
-package com.ict.erp.dto;
+package com.ict.erp.vo;
 
 public class MemberVO {
 

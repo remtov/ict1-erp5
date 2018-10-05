@@ -12,8 +12,8 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
-import com.ict.erp.dto.MemberVO;
 import com.ict.erp.service.MemberService;
+import com.ict.erp.vo.MemberVO;
 
 /**
  * Handles requests for the application home page.
